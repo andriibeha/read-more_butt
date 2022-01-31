@@ -1,0 +1,8 @@
+body {
+  padding: 200px 400px;
+}
+
+.spoiler {
+  width: 30%;
+  overflow: hidden;
+}
